@@ -46,6 +46,7 @@ public class Main {
 					System.out.println("\t1. Add Element");
 					System.out.println("\t2. Show List");
 					System.out.println("\t3. Delete");
+					System.out.println("\t0. Previous Menu");
 					System.out.println("\tWrite one option:");
 					op = Integer.parseInt(sc.nextLine());
 					switch (op) {
