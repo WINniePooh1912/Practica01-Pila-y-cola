@@ -31,7 +31,7 @@ public class Queue {
 				queue = null;
 			} else {
 				queue = temp.getNext();
-				System.out.println("First element deleted...");
+				System.out.println("Element deleted...");
 			}
 		}
 	}
