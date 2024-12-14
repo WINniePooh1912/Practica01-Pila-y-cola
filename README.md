@@ -1,4 +1,4 @@
-# Practica 2 - Pila y Cola - Estructuras de Datos y Algoritmia
+# Practica 01 - Pila y Cola - Estructuras de Datos y Algoritmia
 
 ## Estructuras de Datos: Cola y Pila en Java
 
